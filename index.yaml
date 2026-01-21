@@ -3,22 +3,14 @@ entries:
   quarkus-app:
   - apiVersion: v2
     appVersion: "2.0"
-    created: "2026-01-20T17:35:10.8298717-06:00"
+    created: "2026-01-21T05:46:29.3475862-06:00"
     description: My Quarkus API Helm chart for OpenShift (CRC)
-    digest: 621d5aad6586d138615f9d627585302858108c387a5f188675a27f52a9116f27
+    digest: 750b76b9df20f0571cbd3ca87105a3c6693ac6a79851e3feb5c8b65bb7f1cccb
+    keywords:
+    - demo
     name: quarkus-app
     type: application
     urls:
-    - https://Liset-Cabrera.github.io/my-helm-charts/quarkus-app-0.1.0.tgz
+    - quarkus-app-0.1.0.tgz
     version: 0.1.0
-  - apiVersion: v2
-    appVersion: "2.0"
-    created: "2026-01-20T17:35:10.8545244-06:00"
-    description: My Quarkus API Helm chart for OpenShift (CRC)
-    digest: b23bd8e6b7a768a90f332c1f102efa5e27a0fb3c00b7749b5a9e98113ef8b762
-    name: quarkus-app
-    type: application
-    urls:
-    - https://Liset-Cabrera.github.io/my-helm-charts/gitrepo-charts/quarkus-app-0.1.0.tgz
-    version: 0.1.0
-generated: "2026-01-20T17:35:10.8283026-06:00"
+generated: "2026-01-21T05:46:29.3465872-06:00"
